@@ -1,0 +1,23 @@
+h1, h2, h3 {
+    font-family: "DM-Serif-Display", sans-serif;
+}
+
+/* Title */
+#title {
+    background-color: #F8E2CF;
+}
+
+.navbar {
+    background-color: #F5C6AA;
+}
+
+.title-description {
+    font-family: "Ubuntu", sans-serif;
+    font-style: italic;
+    font-size: 3.5rem;
+}
+
+/* Services */
+/* Pricing */
+/* Call To Action */
+/* Footer */
