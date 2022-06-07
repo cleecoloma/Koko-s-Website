@@ -1,5 +1,9 @@
 h1, h2, h3 {
-    font-family: "DM-Serif-Display", sans-serif;
+    font-family: "DM Serif Display", sans-serif;
+}
+
+.container-fluid {
+    padding: 0;
 }
 
 /* Title */
@@ -7,17 +11,56 @@ h1, h2, h3 {
     background-color: #F8E2CF;
 }
 
+.title-image {
+    width: 300px;
+    border-radius: 100%;
+    display: block;
+    margin: 20% auto;
+}
+
 .navbar {
     background-color: #F5C6AA;
 }
 
-.title-description {
-    font-family: "Ubuntu", sans-serif;
-    font-style: italic;
-    font-size: 3.5rem;
+.title-main {
+    font-family: "Indie Flower", sans-serif;
+    font-weight: bold;
+    font-size: 10rem;
+    color: #EC994B;
+    margin: 6% auto 0;
 }
 
+.title-description {
+    font-family: "Ubuntu", sans-serif;
+    font-size: 1.5rem;
+    text-align: left;
+    color: #3E2C41;
+    max-width: 600px;
+}
+
+
+
 /* Services */
+#services {
+    background-color: #FCD8D4;
+}
+
+.services-row {
+    padding: 5% 6%;
+}
+
+.card-title {
+    font-family: "Indie Flower", sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.card-text {
+    font-family: "Ubuntu";
+    max-width: 280px;
+}
+
+
 /* Pricing */
 /* Call To Action */
 /* Footer */
