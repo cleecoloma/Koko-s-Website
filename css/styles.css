@@ -6,6 +6,10 @@ h1, h2, h3 {
     padding: 0;
 }
 
+body {
+    text-align: center;
+}
+
 /* Title */
 #title {
     background-color: #F8E2CF;
@@ -28,6 +32,7 @@ h1, h2, h3 {
     font-size: 10rem;
     color: #EC994B;
     margin: 6% auto 0;
+    text-align: left;
 }
 
 .title-description {
@@ -62,7 +67,20 @@ h1, h2, h3 {
 
 
 /* Pricing */
+#pricing {
+    background-color: antiquewhite;
+
+}
+
+.pricing-image {
+    width: 20%;
+    margin: 20px;
+}
+
 /* Call To Action */
+#cta {
+    background-color: #F5C6AA;
+}
 /* Footer */
 
 /* ColorHunt Link https://colorhunt.co/palette/fcd8d4fdf6f0f8e2cff5c6aa */
