@@ -10,6 +10,10 @@ body {
     text-align: center;
 }
 
+p {
+    padding-top: 0.5rem;
+}
+
 /* Title */
 #title {
     background-color: #F8E2CF;
@@ -69,18 +73,24 @@ body {
 /* Pricing */
 #pricing {
     background-color: antiquewhite;
-
 }
 
 .pricing-image {
-    width: 20%;
+    width: 300px;
     margin: 20px;
 }
 
 /* Call To Action */
 #cta {
     background-color: #F5C6AA;
+    padding: 2%;
 }
+
+.cta-line {
+    line-height: 1.5rem;
+}
+
 /* Footer */
+
 
 /* ColorHunt Link https://colorhunt.co/palette/fcd8d4fdf6f0f8e2cff5c6aa */
